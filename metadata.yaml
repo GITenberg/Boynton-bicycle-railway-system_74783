@@ -1,11 +1,16 @@
 _repo: Boynton-bicycle-railway-system_74783
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74783-h/images/cover.jpg
 creator:
   author:
     agent_name: Boynton Bicycle Railway Company
     gutenberg_agent_id: '57650'
     url: http://www.gutenberg.org/2009/agents/57650
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74783#Boynton-bicycle-railway-system
 gutenberg_issued: '2024-11-23'
 gutenberg_type: Text
 identifiers:
